@@ -1,7 +1,3 @@
-# Cold-Start-Anti-Promotional-Recommendation-Model-CS-APRM-
-An Integer Linear Programming (ILP) framework to balance organic user genre preferences and platform promotional bias in cold-start streaming recommendation systems.
-
-
 # Cold-Start Anti-Promotional Recommendation Model (CS-APRM)
 
 A mathematical optimization framework formulated as an Integer Linear Program (ILP) to mitigate promotional bias and solve the new-item cold-start problem in digital streaming recommendation engines (e.g., Netflix, Prime Video, JioHotstar).
