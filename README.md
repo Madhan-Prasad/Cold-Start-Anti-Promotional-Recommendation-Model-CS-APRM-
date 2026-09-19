@@ -44,6 +44,5 @@ Subject to:
 │   ├── plot_2_pareto_frontier.png         # Organic alignment vs. promo budget
 │   ├── plot_3_positional_intensity.png    # Slot-by-slot promotional scores
 │   └── plot_4_organic_retention.png       # Cosine similarity retention across ranks
-├── cs_aprm_simulation.py                  # Complete simulation, ILP solver, & plotting scripts
-├── requirements.txt                       # Project dependencies (numpy, scipy, matplotlib)
+├── cs_aprm_simulation.py                  # Complete simulation, ILP solver, & plotting scripts                      
 └── README.md
